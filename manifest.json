@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "BankerSpeak Pro",
+  "short_name": "BankerSpeak",
+  "description": "Spoken banking and credit English — daily spaced-repetition sessions, a shadowing studio, and 40 full client dialogues.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0E1014",
+  "theme_color": "#0E1014",
+  "categories": ["education", "business", "productivity"],
+  "prefer_related_applications": false,
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
