@@ -1,0 +1,27 @@
+{
+  "id": "./index.html",
+  "name": "BankerSpeak Pro",
+  "short_name": "BankerSpeak",
+  "description": "تدريب الإنجليزي المصرفي المنطوق: 1,824 جملة، معمل ظل، قائمة نشطة، وصالة سيناريوهات.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1F3864",
+  "theme_color": "#1F3864",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "مراجعة المستحق", "short_name": "المراجعة", "url": "./index.html#/active", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" }] },
+    { "name": "استوديو الظل", "short_name": "الظل", "url": "./index.html#/shadow", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" }] },
+    { "name": "صالة السيناريوهات", "short_name": "الصالة", "url": "./index.html#/gym", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" }] },
+    { "name": "قائمة البداية", "short_name": "البداية", "url": "./index.html#/starter", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" }] }
+  ]
+}
